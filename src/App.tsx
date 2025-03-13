@@ -2,7 +2,7 @@ import './App.css'
 
 export function App() {
 	return (
-		<>
+		<div className='container mx-auto'>
 
 			<h1 className='text-5xl font-bold text-orange-400 text-center mt-32 '>
 				hello, tailwind
@@ -16,6 +16,6 @@ export function App() {
 				width & height
 			</div>
 
-		</>
+		</div>
 	)
 }
