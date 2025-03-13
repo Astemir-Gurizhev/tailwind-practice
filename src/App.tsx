@@ -7,7 +7,7 @@ export function App() {
 				hello, tailwind
 			</h1>
 
-			<button className='rounded-3xl bg-orange-500 mt-10 px-7 py-2 cursor-pointer border border-#fff/50 border-solid'>
+			<button className='rounded-3xl bg-orange-500 mt-10 px-7 py-2 cursor-pointer border border-#fff/50 border-solid hover:bg-orange-600'>
 				click me
 			</button>
 		</>
