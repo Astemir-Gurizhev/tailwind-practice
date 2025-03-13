@@ -3,7 +3,7 @@ import './App.css'
 export function App() {
 	return (
 		<>
-			<h1>hello, tailwind</h1>
+			<h1 className='text-5xl font-bold text-orange-400'>hello, tailwind</h1>
 		</>
 	)
 }
