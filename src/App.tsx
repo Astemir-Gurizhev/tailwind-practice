@@ -16,6 +16,16 @@ export function App() {
 				width & height
 			</div>
 
+			<div className='flex justify-center items-center gap-5 mt-3'>
+				<div className='bg-amber-400 w-20 h-20 '/>
+				<div className='bg-amber-400 w-20 h-20 '/>
+			</div>
+
+			<div className='grid grid-cols-2 gap-5 mt-3'>
+				<div className='bg-amber-200 h-20 '/>
+				<div className='bg-amber-200 h-20 '/>
+			</div>
+
 		</div>
 	)
 }
