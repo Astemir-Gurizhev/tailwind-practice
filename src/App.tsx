@@ -23,7 +23,7 @@ export function App() {
 				<div className='bg-amber-200 h-20 ' />
 			</div>
 
-			<div className='fixed inset-0 bg-black/80 backdrop-blur-md flex items-center justify-center'>
+			{/* <div className='fixed inset-0 bg-black/80 backdrop-blur-md flex items-center justify-center'>
 				<div className='bg-white/80 text-black rounded w-1/2 p-5'>
 					<h1 className='text-xl font-semibold'>modal window</h1>
 					<p>
@@ -33,7 +33,7 @@ export function App() {
 						nulla, quibusdam dolores expedita fuga.
 					</p>
 				</div>
-			</div>
+			</div> */}
 		</div>
 	)
 }
