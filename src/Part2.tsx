@@ -10,6 +10,9 @@ export const Part2 = () => {
 			<button className='rounded-3xl bg-orange-500 px-7 py-2 cursor-pointer border border-#fff/50 border-solid transition-colors ease-in-out duration-300 animate-bounce hover:bg-orange-600'>
 				click me
 			</button>
+			<div className='p-4 bg-amber-600 rounded shadow transition-colors duration-500 md:bg-amber-300 lg:bg-fuchsia-300 xl:bg-red-500 2xl:bg-green-400'>
+				change block
+			</div>
 		</div>
 	)
 }
