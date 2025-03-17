@@ -13,6 +13,10 @@ export const Part2 = () => {
 			<div className='p-4 bg-amber-600 rounded shadow transition-colors duration-500 md:bg-amber-300 lg:bg-fuchsia-300 xl:bg-red-500 2xl:bg-green-400'>
 				change block
 			</div>
+
+			<div className='perspective-distant'>
+				<iframe src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4" className='w-full h-full aspect-video rotate-x-40 rotate-z-20 rounded-3xl shadow-2xl transform-3d'></iframe>
+			</div>
 		</div>
 	)
 }
